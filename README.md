@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alexsandro Teixeira GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlexsandroTC&count_private=true&show_icons=true&hide_border=false)
 
 <p align='center'>
   A.net developer from Itajai, Brazil.
