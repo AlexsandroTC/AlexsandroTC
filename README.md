@@ -1,6 +1,5 @@
 ### Olá,👋
 
-- Atualmente atuo com desenvolvedor Pleno na ESX.
 - Trabalho com a stack C#, dotnet, dotnet core.
 - Sou entusiasta em tecnologia e sempre estou buscando aprender e desenvolver coisas.
 - Apaixonado por C#, Xamarin e Café.
